@@ -13,17 +13,19 @@
 
 ## Table of Contents
 - [Description](#description)
-- [Features](#features)
+- [Media](#media)
 - [Installation](#installation)
 - [Contributors](#contributors)
 - [Contact](#contact)
 
 ## Description
+This is a lab I did during my time at Collin College. I have enhanced my understanding of media queries in frontend development. Feel free to look at my other works.
 
-## Features
-//INSERT MEDIA//
+## Media
+![GitHub_9](https://user-images.githubusercontent.com/114362462/214396480-e40a6a7a-19c3-4411-9a6e-cb0f02557f8a.png)
 
 ## Installation
+Fork this repo/copy the code onto your machine.
 
 ## Contributor(s)
 [Jordan-Stafford](https://github.com/Jordan-Stafford)
